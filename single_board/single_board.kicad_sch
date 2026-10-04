@@ -28062,7 +28062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Rover:FM-B2020RGBA-HG Hand Solder"
+		(property "Footprint" "rover:FM-B2020RGBA-HG Hand Solder"
 			(at 431.8 387.35 0)
 			(hide yes)
 			(show_name no)
@@ -28465,7 +28465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Rover:FC-135 Hand Solder"
+		(property "Footprint" "rover:FC-135"
 			(at 337.82 349.25 0)
 			(hide yes)
 			(show_name no)

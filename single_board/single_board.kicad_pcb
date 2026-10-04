@@ -155,163 +155,6 @@
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
-		(uuid "01551b60-ef41-43df-9d3a-34653c3bfc2d")
-		(at 186.51 89.25 180)
-		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor")
-		(property "Reference" "R25"
-			(at 0 -1.17 0)
-			(layer "F.SilkS")
-			(uuid "915a05cb-7393-4c80-b979-07085725dfd8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 0 1.17 0)
-			(layer "F.Fab")
-			(uuid "d5e8fa78-daf4-4368-9b2d-0dad491ef721")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "C71617"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a59eb821-a285-4e04-a634-d24988d51fa7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c3c66de4-7c50-4617-87da-57c475318000")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "80469c7a-ac37-4d37-85f8-0fd8bc21d3e7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "R_*")
-		(sheetname "/")
-		(sheetfile "single_board.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -0.153641 0.38)
-			(end 0.153641 0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f79efcbf-fa77-42cc-97d9-7dd76f7a9004")
-		)
-		(fp_line
-			(start -0.153641 -0.38)
-			(end 0.153641 -0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a85cb4ab-d32e-477a-bb35-c90a51d231ac")
-		)
-		(fp_rect
-			(start -0.93 -0.47)
-			(end 0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "89baa531-e9d4-4a61-afe4-24493a2b828b")
-		)
-		(fp_rect
-			(start -0.525 -0.27)
-			(end 0.525 0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "2dec9fbc-e740-4191-a93f-190e39a1c467")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "a564cc86-584a-4438-9cea-841ed211a81c")
-			(effects
-				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -0.51 0 180)
-			(size 0.54 0.64)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "Net-(Q6-G)")
-			(pintype "passive")
-			(uuid "67e55e8d-0c0d-4e56-a2b8-12a004354f2d")
-		)
-		(pad "2" smd roundrect
-			(at 0.51 0 180)
-			(size 0.54 0.64)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "GND")
-			(pintype "passive")
-			(uuid "84c81ed0-8ec1-42bf-b415-a37176d13673")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
-		(layer "F.Cu")
 		(uuid "03074951-1208-49b4-adc9-0e1d19fcbc7b")
 		(at 170.575 157.67 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
@@ -357,18 +200,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "7bbff534-cc43-459c-af69-f7f5d43cdf2d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -516,18 +347,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e8e7fc77-7b73-4ed2-8cd1-fc493c0efccb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -921,18 +740,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c89235fb-07fc-485d-8a17-fcba2a71b964")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/82130654-49a6-44c2-9a8d-0733c3350155")
 		(sheetname "/")
@@ -1076,18 +883,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d8cf0c3e-5c19-4874-8568-e0eb3d62118d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -1237,18 +1032,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "2d5ad60e-76d3-41a7-a12b-902f949647ee")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/15032aa8-4f3e-4770-bb83-dbf250c86a6b")
 		(sheetname "/")
@@ -1392,18 +1175,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e024b2fe-9ea1-491e-9fe0-bec3471634b7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -1553,18 +1324,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ae77aa4f-0540-49cc-afa7-2d755d5ddaee")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/d4baee93-1b64-4cf3-9d1c-585bc99b2ba6")
 		(sheetname "/")
@@ -1711,18 +1470,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b58f3904-026c-474e-9a75-2ff2b3770e31")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/eca13502-202a-4666-a7e9-f746ee7e7d7c")
 		(sheetname "/")
@@ -1866,18 +1613,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "66adeb0f-8b03-42b9-b7b5-82f161ffa15e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -2225,18 +1960,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b59d9df9-d6dc-4d43-917e-43ccb165c7c8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 0 0 0)
 			(unlocked yes)
@@ -2447,18 +2170,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e61d080f-f431-4d5a-bdff-bd2f3aa05da2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/a1c56b32-254f-42f4-8386-7dcc198d430b")
 		(sheetname "/")
@@ -2605,18 +2316,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 270)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "38f39271-561e-465d-8bb4-1ce82d94d031")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/68a0cd84-903c-4fb5-8bcd-b91a5c9f87a6")
 		(sheetname "/")
@@ -2760,18 +2459,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "faf1d704-4f4f-4b00-9b23-f9fe4e5f6269")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -3004,18 +2691,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "75b0f58f-b860-4b98-a9c3-87953afb31a0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/a37973b1-9d05-4800-90d9-9335e63c925d")
 		(sheetname "/")
@@ -3162,18 +2837,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 270)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e17f9e60-a21f-433d-93e5-eeb58ae7d321")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/feff2dc0-aba6-4495-a0dd-88dc08be74cb")
 		(sheetname "/")
@@ -3317,18 +2980,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "06f7db73-5d4c-489b-8b21-d7abb19c71dd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -3492,387 +3143,6 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
-		(layer "F.Cu")
-		(uuid "1b05fc86-c5b8-418c-ad35-0578dcbd8407")
-		(at 185.51 92.47 180)
-		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
-		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q6"
-			(at 0 -2.4 0)
-			(layer "F.SilkS")
-			(uuid "6690742f-5979-448b-b75c-726625ec6e37")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "AO3401A"
-			(at 0 2.4 0)
-			(layer "F.Fab")
-			(uuid "2b8e9cf3-73e4-4328-aff9-c4a078e6b7c0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "C347476"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b2e796fa-8e08-46f2-8ebd-16c22b0a18ae")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "74fa3634-c713-48e6-a60e-5413763892c8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "bfb49a30-b7cc-44d1-b661-36f8be759f73")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "SOT?23*")
-		(sheetname "/")
-		(sheetfile "single_board.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start 0.76 1.56)
-			(end -0.76 1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "de8507e2-e4ce-434c-8d45-2511cefccfff")
-		)
-		(fp_line
-			(start 0.76 0.56)
-			(end 0.76 1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "346d3f7e-2c08-43d2-b213-02701c1f6399")
-		)
-		(fp_line
-			(start 0.76 -1.56)
-			(end 0.76 -0.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "fd2b5e66-b0bb-4abe-8655-8b5fac6b7526")
-		)
-		(fp_line
-			(start -0.76 1.56)
-			(end -0.76 1.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "554f302c-f3e5-4631-8203-1300b3719ccc")
-		)
-		(fp_line
-			(start -0.76 0.39)
-			(end -0.76 -0.39)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "5a6f16f5-11a8-4d65-a557-5610d73d5094")
-		)
-		(fp_line
-			(start -0.76 -1.51)
-			(end -0.76 -1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a0d4d83b-3cfe-4fb2-b507-f455812eedec")
-		)
-		(fp_line
-			(start -0.76 -1.56)
-			(end 0.76 -1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "959fccdb-98a4-4b4d-9411-380c2793a244")
-		)
-		(fp_poly
-			(pts
-				(xy -1.3 -0.38) (xy -1.06 -0.05) (xy -1.54 -0.05)
-			)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill yes)
-			(layer "F.SilkS")
-			(uuid "4544c7e1-bbf9-407f-aad7-a95a0af3de0b")
-		)
-		(fp_line
-			(start 1.93 0.55)
-			(end 0.9 0.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "43f0732b-472e-442d-85e2-ef17c846c0ce")
-		)
-		(fp_line
-			(start 1.93 -0.55)
-			(end 1.93 0.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "518fe7fb-d6ab-4560-a53f-268899fc86bf")
-		)
-		(fp_line
-			(start 0.9 1.7)
-			(end -0.9 1.7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "52308d1d-4873-423c-88a8-066330da0aa7")
-		)
-		(fp_line
-			(start 0.9 0.55)
-			(end 0.9 1.7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "042b845a-5cb2-495e-b1b9-205b629ffc3c")
-		)
-		(fp_line
-			(start 0.9 -0.55)
-			(end 1.93 -0.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c3592203-c81c-453f-a341-c73282143f98")
-		)
-		(fp_line
-			(start 0.9 -1.7)
-			(end 0.9 -0.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7e52f247-8b96-462b-9f6a-efcc84620bd3")
-		)
-		(fp_line
-			(start -0.9 1.7)
-			(end -0.9 1.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "71ce5ab8-8918-4f30-a145-8be295ab98eb")
-		)
-		(fp_line
-			(start -0.9 1.5)
-			(end -1.93 1.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "24180407-73ab-4fa1-9b33-0b1696c97f54")
-		)
-		(fp_line
-			(start -0.9 0.39)
-			(end -0.9 -0.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "25280a32-b03f-49f0-bc99-6d2d17ef4f35")
-		)
-		(fp_line
-			(start -0.9 -0.39)
-			(end -1.93 -0.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1da342be-b62c-4037-af7a-c0e4142dc63d")
-		)
-		(fp_line
-			(start -0.9 -1.5)
-			(end -0.9 -1.7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "2ad07616-5fce-4834-9a16-1f5404dfd6c6")
-		)
-		(fp_line
-			(start -0.9 -1.7)
-			(end 0.9 -1.7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "611ed982-a1a8-44ee-b92c-3666220bbae0")
-		)
-		(fp_line
-			(start -1.93 1.5)
-			(end -1.93 0.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "3d379a61-1220-4345-9f96-1ae2e04d5fb5")
-		)
-		(fp_line
-			(start -1.93 0.39)
-			(end -0.9 0.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "fe6f947e-c643-4c70-b9f9-564da87aca3c")
-		)
-		(fp_line
-			(start -1.93 -0.39)
-			(end -1.93 -1.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "84b87f22-3ef9-4acf-886c-b89a3ef35ae4")
-		)
-		(fp_line
-			(start -1.93 -1.5)
-			(end -0.9 -1.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "36c888d1-b60a-470d-ad40-c1ed72d2c33a")
-		)
-		(fp_poly
-			(pts
-				(xy -0.325 -1.45) (xy 0.65 -1.45) (xy 0.65 1.45) (xy -0.65 1.45) (xy -0.65 -1.125)
-			)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "edefb2bc-04c0-4a99-8813-72480f48b846")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(uuid "ca9c3f0d-7364-448c-80bd-7464af7d5251")
-			(effects
-				(font
-					(size 0.72 0.72)
-					(thickness 0.11)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -0.9375 -0.95 180)
-			(size 1.475 0.6)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "Net-(Q6-G)")
-			(pinfunction "G_1")
-			(pintype "input")
-			(uuid "d0d8d892-cb82-43fa-ac55-33396a6112d7")
-		)
-		(pad "2" smd roundrect
-			(at -0.9375 0.95 180)
-			(size 1.475 0.6)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "Net-(Q6-S)")
-			(pinfunction "S_2")
-			(pintype "passive")
-			(uuid "e8f7b8d1-b496-4778-9590-0145094a1e08")
-		)
-		(pad "3" smd roundrect
-			(at 0.9375 0 180)
-			(size 1.475 0.6)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "Net-(J6-Pin_1)")
-			(pinfunction "D_3")
-			(pintype "passive")
-			(uuid "e879cc49-e4b1-4861-a10e-8e268058c2e1")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "1bb727bf-3053-4a8c-8b36-0d3c54692d39")
@@ -3920,18 +3190,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0f61775a-90a0-4337-828f-cd863d1a93d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -4031,15 +3289,14 @@
 			)
 		)
 	)
-	(footprint "Rover:FM-B2020RGBA-HG Hand Solder"
+	(footprint "rover:FM-B2020RGBA-HG Hand Solder"
 		(layer "F.Cu")
 		(uuid "1bc96221-3281-48d0-82e3-92c942169dd9")
 		(at 140.505 82.81)
 		(property "Reference" "D3"
-			(at 0 -2.6 0)
+			(at 0 -2.2 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "68871bac-6d33-41ed-83fb-4142c4929238")
 			(effects
 				(font
@@ -4099,28 +3356,8 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.75 -0.7)
-			(end -2.15 -0.7)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "8187a723-5fd6-4227-bb7e-333ae64ad012")
-		)
-		(fp_line
-			(start -2.45 -1)
-			(end -2.45 -0.4)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "4cdc2e8c-1393-4455-910d-2008d72ee8f9")
-		)
-		(fp_line
-			(start -1.9 -1.35)
-			(end -0.5 -1.35)
+			(start -2.3 -0.7)
+			(end -1.7 -0.7)
 			(stroke
 				(width 0.1)
 				(type default)
@@ -4129,14 +3366,34 @@
 			(uuid "2cba31f1-517b-4aa8-9e91-0d7864783353")
 		)
 		(fp_line
-			(start -1.9 -0.3)
-			(end -1.9 -1.35)
+			(start -2 -1)
+			(end -2 -0.4)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
 			(uuid "6fd59eea-6356-463b-92da-cc71246eb520")
+		)
+		(fp_line
+			(start -1.5 -1.35)
+			(end -0.1 -1.35)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "8187a723-5fd6-4227-bb7e-333ae64ad012")
+		)
+		(fp_line
+			(start -1.5 -0.3)
+			(end -1.5 -1.35)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "4cdc2e8c-1393-4455-910d-2008d72ee8f9")
 		)
 		(fp_poly
 			(pts
@@ -4174,8 +3431,8 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at 1.05 0.55)
-			(size 1.2 0.7)
+			(at 0.85 0.55)
+			(size 0.8 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15)
 			(net "Net-(D3-RK)")
@@ -4184,8 +3441,8 @@
 			(uuid "de1d107d-1c9a-443b-a909-4c1bcd143cc8")
 		)
 		(pad "2" smd roundrect
-			(at -1.05 0.55)
-			(size 1.2 0.7)
+			(at -0.85 0.55)
+			(size 0.8 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15)
 			(net "Net-(D3-BK)")
@@ -4194,8 +3451,8 @@
 			(uuid "da295b4e-b72c-43d2-bbb8-155032115994")
 		)
 		(pad "3" smd roundrect
-			(at -1.05 -0.55)
-			(size 1.2 0.7)
+			(at -0.85 -0.55)
+			(size 0.8 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15)
 			(net "v3v3")
@@ -4204,8 +3461,8 @@
 			(uuid "b6655cbf-e149-4bf4-9aab-93d468a9f97e")
 		)
 		(pad "4" smd roundrect
-			(at 1.05 -0.55)
-			(size 1.2 0.7)
+			(at 0.85 -0.55)
+			(size 0.8 0.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15)
 			(net "Net-(D3-GK)")
@@ -4262,18 +3519,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5c66da60-6f8b-4247-8c56-1450fda775fb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -4423,18 +3668,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "203e08dc-3143-4d9c-98ad-6ff4e6407aba")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/cd9bf4af-aef5-40cc-b26a-676a6b46f535")
 		(sheetname "/")
@@ -4581,18 +3814,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "daaaf493-f642-4fbf-8ea6-4a0354d30624")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/112467b8-2f7b-4f36-8432-dcf1ed632cda")
 		(sheetname "/")
@@ -4736,18 +3957,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "be0f7e98-e8aa-457e-b341-b7be9e0c940f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -4959,18 +4168,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b31979b2-ee94-4765-82b1-c0967837dda6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -5214,18 +4411,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "eddd0f2d-65c5-4d5f-b2f2-c27f9fbb1d2d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/096cf636-3106-4a2e-ba96-394f197f7d9e")
 		(sheetname "/")
@@ -5369,18 +4554,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "49431ba4-4434-41ed-b630-d3dcbb088f1c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -5728,18 +4901,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4be79a5f-8d6b-4c36-90ae-ee85e165447e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/725e3429-362f-4a68-9601-ebdbe33f54d6")
 		(sheetname "/")
@@ -5883,18 +5044,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8762d8cc-fcea-48bb-99f4-f290d90e4a7c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -6108,18 +5257,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ff72282a-436b-42af-98d6-f39be41adc53")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/296b237d-a9ae-463f-acc1-11b0ee127624")
 		(sheetname "/")
@@ -6263,18 +5400,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "227117d7-87a4-47e4-a843-d3a9bdfb3e4d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -6424,18 +5549,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "daceffe6-410d-48ee-ae5b-4ae265e92c15")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/18c637e1-5a02-4618-8b2e-da8cc3a79296")
 		(sheetname "/")
@@ -6582,18 +5695,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4ea380a1-2738-4b1d-9942-a3e58efbba99")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/73e3ee96-f7d8-49be-bf2b-0445a8471d63")
 		(sheetname "/")
@@ -6737,18 +5838,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c3dc8787-4631-4053-9839-cb34bd2d3032")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -6967,18 +6056,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a7884e43-9777-419f-8cb2-4b46968f65bb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -7326,18 +6403,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "707c07f1-cf8f-4b19-8980-c045ecc34824")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 0 0 0)
 			(unlocked yes)
@@ -7545,18 +6610,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "46d95263-dde5-4351-97a5-8e4e291fed22")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -7905,18 +6958,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b956dff8-9f7d-4be6-9217-da7ab194caf2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/f3c91ccb-9656-4f2d-803d-72d808aa60e0")
 		(sheetname "/")
@@ -8023,18 +7064,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "edc7a185-fe08-42a0-88e6-7acd9454a8a8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -8181,18 +7210,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4ffbb09b-534c-47d3-83f8-56875c62f33d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -8599,163 +7616,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
-		(layer "F.Cu")
-		(uuid "4e6483b6-dac7-40ab-9c2d-14ccde1c54a5")
-		(at 156.97 131.2 180)
-		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor")
-		(property "Reference" "R28"
-			(at 0 -1.17 180)
-			(layer "F.SilkS")
-			(uuid "5f54b23b-f6cf-4c4f-b186-e9ac42cff313")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 0 1.17 180)
-			(layer "F.Fab")
-			(uuid "6eec56f5-929a-43cc-8cc3-a150924810a9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "C71617"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "73eb6604-e375-41df-ac3b-334b08909870")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "152860d7-857b-4347-811d-00602ef880cf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ee75c93a-b201-4cde-a7cc-462d6fd212b4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "R_*")
-		(sheetname "/")
-		(sheetfile "single_board.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -0.153641 0.38)
-			(end 0.153641 0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b222cec7-9633-4166-b2d7-bf58e59d4600")
-		)
-		(fp_line
-			(start -0.153641 -0.38)
-			(end 0.153641 -0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "36235772-21c4-4101-a6db-64994bb01589")
-		)
-		(fp_rect
-			(start -0.93 -0.47)
-			(end 0.93 0.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "431f86f5-dd7b-4d4e-b253-1796744f70bb")
-		)
-		(fp_rect
-			(start -0.525 -0.27)
-			(end 0.525 0.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "ff0ffff5-6009-486d-9167-69877e729ccc")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(uuid "ece9e55e-f9ca-49a7-b70e-d964e5bdc782")
-			(effects
-				(font
-					(size 0.26 0.26)
-					(thickness 0.04)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -0.51 0 180)
-			(size 0.54 0.64)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "/FSR_SIG")
-			(pintype "passive")
-			(uuid "2821c0cc-adda-43a5-8907-4db0905ce876")
-		)
-		(pad "2" smd roundrect
-			(at 0.51 0 180)
-			(size 0.54 0.64)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "v3v3")
-			(pintype "passive")
-			(uuid "4d920661-482f-407c-9bee-fe544bf37718")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "500db70a-6588-45aa-8895-d43196d306b4")
@@ -8803,18 +7663,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b46f1039-4ee1-47cf-bcd7-41fc55ffb5c4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -8964,18 +7812,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "171933bc-7e87-4520-9c67-7839eb1bdf1b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/c9a455be-3c08-424e-b0ce-b068eb8ec13b")
 		(sheetname "/")
@@ -9119,18 +7955,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ab396756-2aca-4445-ad3f-aeab1093c3c2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -9580,18 +8404,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "477a2448-4bdd-4d3c-a30f-aaecd4c1000a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/90e2e46a-e450-4171-9bb7-3d7e252f6dce")
 		(sheetname "/")
@@ -9936,18 +8748,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0a8274b7-9fac-4528-b1f4-eb11ade7540b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/5b0dd15a-e3aa-464b-b6d2-4a0699cadf95")
 		(sheetname "/")
@@ -10091,18 +8891,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d62b8619-81d1-4a91-825b-b2f819d9c794")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -11025,18 +9813,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8f2ad5c2-31f6-4459-b362-afa230a0e355")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
 		(path "/44ad4428-7684-4309-b8cb-2e509cb25f5d")
 		(sheetname "/")
@@ -11443,18 +10219,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 270)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9c772df4-5bfb-4572-ae2e-738dbb782a16")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/53f34b5c-34d6-4a35-b3f3-e2b341e880b4")
 		(sheetname "/")
@@ -11601,18 +10365,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ef9a27b4-c299-4412-9dd8-baa697cad3b0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/7e22f75b-793d-460a-a2d6-11d1f686688f")
 		(sheetname "/")
@@ -11756,18 +10508,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8e52ca17-5f1c-415f-bc28-7f8db5aa5794")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -11981,18 +10721,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "48da2c9a-cde9-43f5-aebe-e29a8bf1c746")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/633e0470-63f3-4626-aaf9-2aa052a0e212")
 		(sheetname "/")
@@ -12089,7 +10817,7 @@
 			)
 		)
 	)
-	(footprint "Rover:FC-135 Hand Solder"
+	(footprint "rover:FC-135"
 		(layer "F.Cu")
 		(uuid "74124b71-b98b-4898-8438-55f4eda2c8cc")
 		(at 136.4525 111.7 90)
@@ -12097,7 +10825,6 @@
 			(at 0 -1.8 90)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "29772eed-2fe2-4ae8-ae8d-603b30fb85c2")
 			(effects
 				(font
@@ -12157,20 +10884,20 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.7 -1)
-			(end 0.7 -1)
+			(start -0.5 -0.9)
+			(end 0.5 -0.9)
 			(stroke
-				(width 0.1)
+				(width 0.15)
 				(type default)
 			)
 			(layer "F.SilkS")
 			(uuid "4436debf-3d10-4f3d-ac69-7f16834db6a2")
 		)
 		(fp_line
-			(start -0.7 1)
-			(end 0.7 1)
+			(start -0.5 0.9)
+			(end 0.5 0.9)
 			(stroke
-				(width 0.1)
+				(width 0.15)
 				(type default)
 			)
 			(layer "F.SilkS")
@@ -12200,8 +10927,8 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at 1.35 0 90)
-			(size 1.2 2)
+			(at 1.25 0 90)
+			(size 1 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15)
 			(net "/OSC32_IN")
@@ -12210,8 +10937,8 @@
 			(uuid "1a46bdde-c7f3-402d-a0ad-3f354a55ca9d")
 		)
 		(pad "2" smd roundrect
-			(at -1.35 0 90)
-			(size 1.2 2)
+			(at -1.25 0 90)
+			(size 1 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15)
 			(net "/OSC32_OUT")
@@ -12268,18 +10995,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b6547625-f435-453d-af7e-94a43c718239")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -12426,18 +11141,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9f53ac93-c24c-46e8-91de-441f38839280")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -12848,18 +11551,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e47ba4ca-be7d-4e8d-8f4a-8d3d47b06afd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/813727b9-5dad-4b8d-9927-bcc67d445126")
 		(sheetname "/")
@@ -13142,18 +11833,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9a8787c2-2494-4af9-9b59-b3f41c0b73d2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/dab3d34c-59a4-4704-8d05-ae77d9ede4f0")
 		(sheetname "/")
@@ -13297,18 +11976,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "53efa54e-ec4f-401b-8bcf-1530567ea64b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -13458,18 +12125,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "712b540e-d8b6-4dba-a1c8-85ac618b0868")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/92ead46a-b1ee-4839-a359-861c34aacede")
 		(sheetname "/")
@@ -13613,18 +12268,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9e13528c-c091-4b48-a6d9-63edba1e2c45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -13839,18 +12482,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4db5b057-3313-48cd-9bae-229aa27f7da1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/e15e84ec-7cae-418c-b836-d9be80e07b2e")
 		(sheetname "/")
@@ -13961,18 +12592,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c707d52f-8f14-4dec-b2b5-2624fb6e7bc5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ef6b991d-aff8-4b0b-9009-095649b4d8e4")
 		(sheetname "/")
@@ -14079,18 +12698,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "84293f60-3049-44d1-a088-263d51d38cbc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -14237,18 +12844,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0afa61bf-72df-4b8e-a20b-61bee3366153")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -14459,18 +13054,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "69fb02ee-2024-48e7-925d-5fab35b93336")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -14880,18 +13463,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0964324e-f245-4a86-9e24-63709ff5e092")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/7e21b225-9ed3-4de7-8c27-4e1fe6f9aabb")
 		(sheetname "/")
@@ -15035,18 +13606,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5616140c-147a-4290-94dd-e50fb1d73166")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -15420,18 +13979,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a3821124-806c-43f1-aaf9-4b9331a96fc7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/7c923787-0efd-4352-8596-0f65c8e7a9ca")
 		(sheetname "/")
@@ -15575,18 +14122,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "38f3ea85-1234-4d3f-8047-dfa87a41384c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -15736,18 +14271,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8cd41b55-e2d4-4fb9-8c42-755456a4161f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/94328d29-f9e1-40d6-9c10-8608325e640e")
 		(sheetname "/")
@@ -15891,18 +14414,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3ca51b00-031c-43a4-b82e-c087eea86e74")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -16052,18 +14563,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ac25aaf5-5434-4934-a18c-e95d82d997b3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/2ebeee7a-e554-415f-9f21-845ac2869e19")
 		(sheetname "/")
@@ -16207,18 +14706,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "973c28fe-5a10-4218-9b10-b65c1486404f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -16566,18 +15053,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c13205c8-e303-4f54-a0a5-368cca931993")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/fe4261e3-a9ce-4531-89ce-094cb2f7a022")
 		(sheetname "/")
@@ -16721,18 +15196,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f280bbac-bdae-424c-b6c5-0dabb67b00a3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -17080,18 +15543,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f2d5c7d8-a99f-41f1-8c19-cbf93570fb03")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/64dfe0a5-83ea-4024-aa81-e201da77f823")
 		(sheetname "/")
@@ -17236,18 +15687,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e3f90569-073b-4569-bd2e-356fbe9dce79")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -17910,18 +16349,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4acf6b53-1373-440d-b1bf-5d39d278f7e9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
 		(path "/2bd1a13e-edf8-41c8-848f-baa9fc22ad27")
 		(sheetname "/")
@@ -18328,18 +16755,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "13983b86-f7cf-48ee-81e2-bf9f788d3fa0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/af95b3b5-7448-48d7-9f47-ca41381098eb")
 		(sheetname "/")
@@ -18685,18 +17100,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "78708cdf-7c9c-4bbd-b6fc-0ee936e596e1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/9bc84454-f1de-4069-b5c4-fa42a45c8ab7")
 		(sheetname "/")
@@ -18804,18 +17207,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9dd07dbf-678e-4ff5-b256-dd2865fb0e1d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -19189,18 +17580,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "7e9f3f3d-929d-4b71-92cc-d01a4fb6b074")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/1c8b4fe7-c596-4632-87dc-bfa94cb64191")
 		(sheetname "/")
@@ -19344,18 +17723,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a350c29a-ceb0-41a1-840f-d900e06780eb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -19566,18 +17933,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9ae5fb3a-b887-45eb-b4d9-3509f3880eff")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -19925,18 +18280,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4c2fafa0-5a0e-4556-bca7-98130de455d4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/277d243f-a20b-47e7-946c-c90fa80b9f5f")
 		(sheetname "/")
@@ -20080,18 +18423,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "26cfccb7-0177-4881-a4c6-0465b277ccfa")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -20439,18 +18770,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c2ca9ec2-5bf1-4f7f-9d84-ee96655259d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/1468e1e3-f783-490e-8a71-9bddb0c44cb7")
 		(sheetname "/")
@@ -20594,18 +18913,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "fbe0ccfb-d9a6-4c0d-99ac-8bfcf4c83402")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -21015,18 +19322,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "97f709f8-a0e9-4ca0-8818-44129945841c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
 		(path "/6a140fea-6da4-4e16-bf1c-ed4c91622414")
 		(sheetname "/")
@@ -21433,18 +19728,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6ac2226a-f3de-4a82-a9e4-1d1d98928e6b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/d491ff82-2671-49f4-802a-19ee5f8d7c34")
 		(sheetname "/")
@@ -21591,18 +19874,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 270)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0d97518a-61fd-4915-aa9b-0e2b0436bf38")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/0eb896d5-7714-4ca8-8139-4e25713cc46b")
 		(sheetname "/")
@@ -21746,18 +20017,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "35e30108-fa91-48a6-8503-5c92e0bd272a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -22105,18 +20364,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "730cf6c5-96f3-4bc7-b30a-18f75e9ee06d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0649c063-7bd0-401f-b182-fdeeeb24a563")
 		(sheetname "/")
@@ -22461,18 +20708,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a0b5939e-8482-4e4a-8f95-b168cbf9bcdb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/caa0f7c4-290e-42c3-8bfc-37984791eb87")
 		(sheetname "/")
@@ -22616,18 +20851,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "fe5eed80-fb37-4a09-a2e4-0e4d2aa7dc3c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -22975,18 +21198,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b8c8cc5d-c2ad-430c-b4b5-20449a9ef51f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/d12a625a-ffea-4c53-bc72-d29369daf696")
 		(sheetname "/")
@@ -23130,18 +21341,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6a0b953b-a15c-42c9-b670-089516631fc4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -23291,18 +21490,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "de0bb0b6-0140-407d-a2a4-c2609585e0e3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/31b1356d-92bf-4ab2-9602-e8b74cee6a1a")
 		(sheetname "/")
@@ -23446,18 +21633,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8e0ff4f6-02ad-49e7-8a08-d5c1b4613c6d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -23605,18 +21780,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "222623b1-8875-4baa-afcf-3e0f3e52489a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -25018,18 +23181,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d7a8a3c6-a9f7-4ac5-b456-6881d422df2b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/7013c7c6-e547-4a1a-aaed-f39053d9b17a")
 		(sheetname "/")
@@ -25173,18 +23324,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d11167b3-44ea-4502-b97a-6229d4bc21f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -25439,18 +23578,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9823c674-d492-4c12-80d5-fab5966cc54d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/0791b1ed-2fe3-4239-9a5b-6dd4c3e9e2f4")
 		(sheetname "/")
@@ -25594,18 +23721,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c96ca6cd-47eb-42f3-b6c9-4fbe3cca9fa6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -25755,18 +23870,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "abd562b1-5dcf-4dc1-8b43-5a36e5c3075b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/4dafa8cb-e4ab-4f17-b302-badb89bc190a")
 		(sheetname "/")
@@ -25913,18 +24016,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ebc7cbd8-c0a6-4c5f-bbc1-bd0dfbe8715d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/9b66214b-228d-46f2-842c-698f09050de8")
 		(sheetname "/")
@@ -26068,18 +24159,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/Molex"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "68c7651b-6efe-4dc6-aef5-4ece9e012c07")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -26427,18 +24506,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e072ec71-bc93-434a-8551-5c9b6c091e99")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/fb913b5c-5012-412c-a672-b00b2d007d16")
 		(sheetname "/")
@@ -26585,18 +24652,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "93572882-7d0f-4235-bde9-73e9be6a34fb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/646b44d2-2ab5-4c78-8af8-49f09e581f68")
 		(sheetname "/")
@@ -26740,18 +24795,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6ec4d89a-12ea-4f57-9eb4-3f727522ad51")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -27010,18 +25053,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3e4a7bd5-6ffb-49e9-af3c-d5697ecca4d0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/65189fca-03f2-4e8c-b30f-deeed1b5fd03")
 		(sheetname "/")
@@ -27165,18 +25196,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "71ab25ef-687e-4a18-a6b0-186b97eee6b6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -27326,18 +25345,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "2ad8a79d-b27c-4253-8114-87d1d849ceb0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/2faf99a0-2396-4fc6-a16f-f73775c1c342")
 		(sheetname "/")
@@ -27481,18 +25488,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9bbe7446-7b93-4c7b-be3c-95ced116a546")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -27642,18 +25637,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 270)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "fb65ce33-82a1-4419-85e6-eec574d0e907")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/f8c40fdf-8c2e-472c-a1df-ee6f66fee061")
 		(sheetname "/")
@@ -27800,18 +25783,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a66dda53-072f-426c-860f-1bbe8abf9891")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/6db3df12-5181-4f20-bad8-3a948609d836")
 		(sheetname "/")
@@ -27955,18 +25926,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "cbd3ce8c-4260-4de4-a4a4-c460d9c3d30f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -28337,18 +26296,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d03cf1bc-dde2-4263-9ff3-80f96bd05881")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "C_*")
 		(path "/873b1909-ca7b-4b45-874e-7da52eb773fc")
 		(sheetname "/")
@@ -28495,18 +26442,6 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "90b21ca1-9b29-4c59-9306-f6bacfef62d0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/5f5156ae-41de-40e6-a5fb-6593a45756a5")
 		(sheetname "/")
@@ -28650,18 +26585,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "733042e5-d1b3-4a90-9004-fc546a2d8d37")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -28872,18 +26795,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a39edd12-cc21-4c9a-bb19-613e25729cdb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -30862,6 +28773,14 @@
 		(uuid "bcfd0c4d-1eba-4b23-94ab-a967ff0f0618")
 	)
 	(segment
+		(start 157.7 110.54)
+		(end 163.39 110.54)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "/I2C_SCL")
+		(uuid "de213ded-b0a9-43e7-9cd3-179d8884e0cc")
+	)
+	(segment
 		(start 126.125 89.34)
 		(end 128.99 89.34)
 		(width 0.15)
@@ -30900,22 +28819,6 @@
 		(layer "F.Cu")
 		(net "Net-(J17-Pin_3)")
 		(uuid "cb7c89d5-d2d7-4e1a-ab3b-8c4986f5c6f3")
-	)
-	(segment
-		(start 154.025 121.715)
-		(end 154.025 127.075)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "/LASER_SIG")
-		(uuid "3a0e881f-44bd-46aa-9980-c376a2a1aeda")
-	)
-	(segment
-		(start 154.025 127.075)
-		(end 154.05 127.1)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "/LASER_SIG")
-		(uuid "47c8c094-e2a3-4545-bf87-7e5e266f4827")
 	)
 	(segment
 		(start 140.99 108.04)
@@ -31092,6 +28995,22 @@
 		(layer "F.Cu")
 		(net "/ENC6_B")
 		(uuid "d80f86b2-be90-4164-8816-af8b2b88b6c6")
+	)
+	(segment
+		(start 154.025 121.715)
+		(end 154.025 127.075)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "/LASER_SIG")
+		(uuid "3a0e881f-44bd-46aa-9980-c376a2a1aeda")
+	)
+	(segment
+		(start 154.025 127.075)
+		(end 154.05 127.1)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "/LASER_SIG")
+		(uuid "47c8c094-e2a3-4545-bf87-7e5e266f4827")
 	)
 	(segment
 		(start 143.9625 114.54)
@@ -31324,14 +29243,6 @@
 		(layer "F.Cu")
 		(net "/I2C_SDA")
 		(uuid "f9f64874-6fc7-4086-a525-99b92798afeb")
-	)
-	(segment
-		(start 157.7 110.54)
-		(end 163.39 110.54)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "/I2C_SCL")
-		(uuid "de213ded-b0a9-43e7-9cd3-179d8884e0cc")
 	)
 	(segment
 		(start 153.525 121.715)
@@ -32899,6 +30810,22 @@
 		(uuid "f83b4746-1c7d-46bc-8a49-3cdd9ef6ec67")
 	)
 	(segment
+		(start 152.025 126.875)
+		(end 152.05 126.9)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "unconnected-(U5-PE11-Pad42)")
+		(uuid "2437d49d-f3a7-4172-bf7c-f0e0fdfe6d06")
+	)
+	(segment
+		(start 152.025 121.715)
+		(end 152.025 126.875)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "unconnected-(U5-PE11-Pad42)")
+		(uuid "85a22802-11e3-4326-bed8-9782016f1997")
+	)
+	(segment
 		(start 159.89 120.04)
 		(end 162.85 123)
 		(width 0.15)
@@ -33049,22 +30976,6 @@
 		(layer "F.Cu")
 		(net "/TRI_LED_G")
 		(uuid "b61c5c3f-16cd-4ebd-9763-2829211c9d30")
-	)
-	(segment
-		(start 152.025 126.875)
-		(end 152.05 126.9)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "unconnected-(U5-PE11-Pad42)")
-		(uuid "2437d49d-f3a7-4172-bf7c-f0e0fdfe6d06")
-	)
-	(segment
-		(start 152.025 121.715)
-		(end 152.025 126.875)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "unconnected-(U5-PE11-Pad42)")
-		(uuid "85a22802-11e3-4326-bed8-9782016f1997")
 	)
 	(zone
 		(net "v3v3")
