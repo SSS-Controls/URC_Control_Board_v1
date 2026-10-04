@@ -7922,7 +7922,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transistor_FET:2N7002"
+		(symbol "Transistor_FET:AO3400A"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -7943,7 +7943,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "2N7002"
+			(property "Value" "AO3400A"
 				(at 5.08 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7967,7 +7967,7 @@
 					(justify left)
 				)
 			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
+			(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
 				(at 5.08 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7979,7 +7979,7 @@
 					(justify left)
 				)
 			)
-			(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7990,7 +7990,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "N-Channel Switching MOSFET"
+			(property "ki_keywords" "N-Channel MOSFET"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -8012,7 +8012,7 @@
 					)
 				)
 			)
-			(symbol "2N7002_0_1"
+			(symbol "AO3400A_0_1"
 				(polyline
 					(pts
 						(xy 0.254 1.905) (xy 0.254 -1.905)
@@ -8179,7 +8179,7 @@
 					)
 				)
 			)
-			(symbol "2N7002_1_1"
+			(symbol "AO3400A_1_1"
 				(pin input line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -9146,7 +9146,7 @@
 	)
 	(rectangle
 		(start 87.63 224.79)
-		(end 148.59 260.35)
+		(end 160.02 260.35)
 		(stroke
 			(width 0)
 			(type default)
@@ -9270,7 +9270,7 @@
 	)
 	(text "Low side N-MOS"
 		(exclude_from_sim no)
-		(at 141.224 254.762 0)
+		(at 136.398 258.064 0)
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -9280,7 +9280,7 @@
 	)
 	(text "GPIO-Low : Laser off"
 		(exclude_from_sim no)
-		(at 107.696 253.746 0)
+		(at 100.33 257.048 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9814,12 +9814,6 @@
 		(uuid "0db17159-21c3-4b22-85eb-65de207af950")
 	)
 	(junction
-		(at 121.92 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f47bdc9-6e66-4930-b8b2-df365d749456")
-	)
-	(junction
 		(at 238.76 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9884,6 +9878,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28f5a159-c624-4c85-b15c-ad4e99b7479e")
+	)
+	(junction
+		(at 130.81 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ba2e707-b402-4de3-99a0-12efe73fb0df")
 	)
 	(junction
 		(at 255.27 101.6)
@@ -10617,16 +10617,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 251.46) (xy 121.92 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a8174ad-9f62-4aef-8559-57d5a14397cb")
-	)
-	(wire
-		(pts
 			(xy 325.12 152.4) (xy 327.66 152.4)
 		)
 		(stroke
@@ -10947,6 +10937,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 247.65) (xy 130.81 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b885a6e-0845-48c1-881f-6a7ad21e5446")
+	)
+	(wire
+		(pts
 			(xy 38.1 149.86) (xy 38.1 148.59)
 		)
 		(stroke
@@ -11157,7 +11157,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 238.76) (xy 130.81 238.76)
+			(xy 106.68 238.76) (xy 119.38 238.76)
 		)
 		(stroke
 			(width 0)
@@ -11387,7 +11387,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 238.76) (xy 130.81 243.84)
+			(xy 119.38 238.76) (xy 119.38 242.57)
 		)
 		(stroke
 			(width 0)
@@ -11667,16 +11667,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 254) (xy 130.81 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "822b9768-abae-4ad1-8b08-ee4b0e3ae135")
-	)
-	(wire
-		(pts
 			(xy 199.39 24.13) (xy 199.39 27.94)
 		)
 		(stroke
@@ -11854,6 +11844,16 @@
 			(type default)
 		)
 		(uuid "93a6b2e5-2ca6-4ed1-b4cb-3bfa36f2bd9d")
+	)
+	(wire
+		(pts
+			(xy 142.24 247.65) (xy 144.78 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94fba577-349a-46f6-98d8-13c797b70186")
 	)
 	(wire
 		(pts
@@ -12317,16 +12317,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 248.92) (xy 123.19 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfd735df-a37c-47c1-9cfd-5e3e1fe0c725")
-	)
-	(wire
-		(pts
 			(xy 236.22 259.08) (xy 236.22 257.81)
 		)
 		(stroke
@@ -12747,16 +12737,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 248.92) (xy 121.92 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebdff897-0bfb-4857-8616-5fa01bad6ed4")
-	)
-	(wire
-		(pts
 			(xy 105.41 203.2) (xy 110.49 203.2)
 		)
 		(stroke
@@ -12964,6 +12944,16 @@
 			(type default)
 		)
 		(uuid "fdb59c5a-2453-4085-8eb4-448d067e8f2e")
+	)
+	(wire
+		(pts
+			(xy 130.81 247.65) (xy 137.16 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe27b9c3-c6ab-4409-8a50-2d6abe02d7f8")
 	)
 	(wire
 		(pts
@@ -13736,12 +13726,12 @@
 		(uuid "7ae8e10a-a8ff-4a26-a90d-6125e83441a1")
 	)
 	(label "LASER_SIG"
-		(at 116.84 248.92 180)
+		(at 144.78 247.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "7e5ca24c-5bcf-48b7-86d0-5ea6ace3813a")
 	)
@@ -14880,7 +14870,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 121.92 254 0)
+		(at 130.81 250.19 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14892,7 +14882,7 @@
 		(fields_autoplaced yes)
 		(uuid "096cf636-3106-4a2e-ba96-394f197f7d9e")
 		(property "Reference" "R33"
-			(at 124.46 252.7299 0)
+			(at 133.35 248.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14903,7 +14893,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 124.46 255.2699 0)
+			(at 133.35 251.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14914,7 +14904,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 121.92 254 0)
+			(at 130.81 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14925,7 +14915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 254 0)
+			(at 130.81 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14936,7 +14926,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 121.92 254 0)
+			(at 130.81 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17633,6 +17623,95 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:AO3400A")
+		(at 121.92 247.65 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a912217-32bb-4c2e-904b-f2cc4d9d86ca")
+		(property "Reference" "Q3"
+			(at 115.57 246.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AO3400A"
+			(at 115.57 248.9199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 116.84 249.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+			(at 116.84 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 121.92 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "226e3dc8-7bfa-424b-86ea-0fbe696b0b64")
+		)
+		(pin "2"
+			(uuid "1365465e-faa1-432c-99ae-56c9dcb62d21")
+		)
+		(pin "3"
+			(uuid "cedf6c23-7a1c-4977-8d66-d0dc829e15e9")
+		)
+		(instances
+			(project "single_board"
+				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 393.7 69.85 0)
 		(mirror y)
@@ -18564,94 +18643,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:2N7002")
-		(at 128.27 248.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45f96cde-325f-4c70-a870-ce6ecca1b7a5")
-		(property "Reference" "Q2"
-			(at 134.62 247.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2N7002"
-			(at 134.62 250.1899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 133.35 250.825 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
-			(at 133.35 252.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
-			(at 128.27 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "90a821dc-c1e7-49b5-afa9-bc2b8f8793f8")
-		)
-		(pin "1"
-			(uuid "5daba479-3619-4b55-bd54-4fbc62181875")
-		)
-		(pin "2"
-			(uuid "254ec20d-756a-487d-9a54-a280aeb2aca4")
-		)
-		(instances
-			(project "single_board"
-				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 196.85 133.35 90)
 		(unit 1)
@@ -19130,7 +19121,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 121.92 256.54 0)
+		(at 130.81 252.73 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -19142,7 +19133,7 @@
 		(fields_autoplaced yes)
 		(uuid "5171a9a1-a4f9-418c-b954-5e6e8cb65245")
 		(property "Reference" "#PWR0105"
-			(at 121.92 262.89 0)
+			(at 130.81 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19153,7 +19144,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 261.62 0)
+			(at 130.81 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19164,7 +19155,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 256.54 0)
+			(at 130.81 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19175,7 +19166,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 256.54 0)
+			(at 130.81 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19186,7 +19177,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 256.54 0)
+			(at 130.81 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21505,7 +21496,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 191.77 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -25028,7 +25019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Missing 3D Models:Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical"
 			(at 330.2 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -27549,6 +27540,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 139.7 247.65 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b1a1dcef-cfc4-421d-b190-386e2616c888")
+		(property "Reference" "R34"
+			(at 137.795 243.2049 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100"
+			(at 137.795 245.7449 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 139.7 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 139.7 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c070e16e-1118-4213-9002-98b3366a6a40")
+		)
+		(pin "2"
+			(uuid "c2df7465-4ec7-478e-8bf9-334c646a0100")
+		)
+		(instances
+			(project "single_board"
+				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 203.2 101.6 0)
 		(unit 1)
@@ -28023,7 +28095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Rover:FM-B2020RGBA-HG Hand Solder"
+		(property "Footprint" "rover:FM-B2020RGBA-HG"
 			(at 383.54 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -28268,7 +28340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Rover:FC-135 Hand Solder"
+		(property "Footprint" "rover:FC-135"
 			(at 347.98 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -28981,7 +29053,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 255.27 0)
+		(at 119.38 252.73 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -28993,7 +29065,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb37605f-7bb6-495d-b5a5-b6d291d33a20")
 		(property "Reference" "#PWR0104"
-			(at 130.81 261.62 0)
+			(at 119.38 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29004,7 +29076,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 260.35 0)
+			(at 119.38 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29015,7 +29087,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 255.27 0)
+			(at 119.38 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29026,7 +29098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 255.27 0)
+			(at 119.38 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29037,7 +29109,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 255.27 0)
+			(at 119.38 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
