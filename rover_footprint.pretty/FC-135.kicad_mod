@@ -1,4 +1,4 @@
-(footprint "FC-135 Hand Solder"
+(footprint "FC-135"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -7,19 +7,19 @@
 		(at 0 -1.8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "c2560126-2732-42a6-833f-27d4929bf905")
+		(uuid "79d575e0-95b8-4896-9d7a-e59ad08e768f")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
-	(property "Value" "FC-135 Hand Solder"
+	(property "Value" "FC-135"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "51f2da46-1bd5-41cf-b8e3-75bc9feb42d6")
+		(uuid "18b90653-9dc7-448c-9660-8c32eef37d88")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b46d897f-6c33-42f1-8c1e-1fc620342bcf")
+		(uuid "6a1d97c8-8eff-4ee0-be6c-583981e6ee68")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4a1694ed-aa76-42a7-b24d-d89c4e0a356c")
+		(uuid "df789f23-3007-4e30-90db-e316958437ae")
 		(effects
 			(font
 				(size 1 1)
@@ -56,24 +56,24 @@
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
-		(start -0.7 -1)
-		(end 0.7 -1)
+		(start -0.5 -0.9)
+		(end 0.5 -0.9)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "dabbef27-eff9-4db9-8f70-6ab0052a0999")
+		(uuid "dd12b4a3-d6b0-414a-adbb-31d7c59b788e")
 	)
 	(fp_line
-		(start -0.7 1)
-		(end 0.7 1)
+		(start -0.5 0.9)
+		(end 0.5 0.9)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "932e9b6f-6c12-4d2c-831e-4db93b3b49e4")
+		(uuid "b469b012-254f-4d4a-9ed5-9891835eef15")
 	)
 	(fp_rect
 		(start -1.6 -0.75)
@@ -84,13 +84,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "079b49c9-f094-4d82-997e-398a7df4506a")
+		(uuid "74eee0a8-592e-46cc-928f-d21ade9b90eb")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "49c3f71d-6eba-4d15-8496-7837520d9e18")
+		(uuid "c35ec4d5-ac2f-4cc8-9e54-3f854eba7270")
 		(effects
 			(font
 				(size 1 1)
@@ -99,18 +99,18 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at 1.35 0)
-		(size 1.2 2)
+		(at 1.25 0)
+		(size 1 1.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "a15034a3-c4ca-4c11-846b-5b2b12d3e271")
+		(uuid "9e048e42-77c9-4c87-99f7-1fda098cd884")
 	)
 	(pad "2" smd roundrect
-		(at -1.35 0)
-		(size 1.2 2)
+		(at -1.25 0)
+		(size 1 1.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "5cd1340c-3e6a-4000-801b-7c4f026d87a8")
+		(uuid "0a680e4e-4b90-4214-a03d-f4e1ab25767f")
 	)
 	(embedded_fonts no)
 )
