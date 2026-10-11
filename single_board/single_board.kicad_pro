@@ -513,7 +513,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.22,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -531,6 +531,9 @@
         "wire_width": 6
       },
       {
+        "clearance": 1.1,
+        "diff_pair_gap": 1.1,
+        "diff_pair_width": 0.2365,
         "name": "120",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
@@ -538,6 +541,8 @@
         "tuning_profile": ""
       },
       {
+        "diff_pair_gap": 0.1999,
+        "diff_pair_width": 0.2906,
         "name": "90",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
@@ -552,27 +557,27 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Default",
+        "netclass": "90",
         "pattern": "/USB-DP"
       },
       {
-        "netclass": "Default",
+        "netclass": "90",
         "pattern": "/USB-DN"
       },
       {
-        "netclass": "Default",
+        "netclass": "120",
         "pattern": "/CAN_DP"
       },
       {
-        "netclass": "Default",
+        "netclass": "120",
         "pattern": "/CAN_DN"
       },
       {
-        "netclass": "Default",
+        "netclass": "90",
         "pattern": "/DN"
       },
       {
-        "netclass": "Default",
+        "netclass": "90",
         "pattern": "/DP"
       }
     ]
