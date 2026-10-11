@@ -12791,12 +12791,12 @@
 		(uuid "0e4b9fb4-a9d0-42fb-ab29-cc6a84101b17")
 	)
 	(label "LED5"
-		(at 302.26 271.78 0)
+		(at 256.54 266.7 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "109d90a5-8bdf-4e9b-badc-63dc515bc7a2")
 	)
@@ -12821,17 +12821,17 @@
 		(uuid "160b61c6-a5b3-4d9a-8eba-9a586bebe489")
 	)
 	(label "LED4"
-		(at 256.54 266.7 180)
+		(at 302.26 271.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "162fd97b-6939-440f-bd97-e31394b16de8")
 	)
 	(label "IMU_MOSI"
-		(at 506.73 274.32 0)
+		(at 506.73 276.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13241,7 +13241,7 @@
 		(uuid "61b0cf97-41c8-4314-bfbe-8029a42d04cb")
 	)
 	(label "INT2"
-		(at 302.26 246.38 0)
+		(at 302.26 302.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13331,7 +13331,7 @@
 		(uuid "6c53e51a-0085-4402-8af0-f85e4295e668")
 	)
 	(label "IMU_SCK"
-		(at 506.73 276.86 0)
+		(at 506.73 274.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13771,7 +13771,7 @@
 		(uuid "c38cba1a-6bd2-43f7-ae1d-5d5fbea393c5")
 	)
 	(label "INT1"
-		(at 302.26 302.26 0)
+		(at 302.26 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
