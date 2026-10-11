@@ -9861,16 +9861,16 @@
 		(uuid "0b489332-8d0f-4972-b69f-f407120205f6")
 	)
 	(no_connect
-		(at 302.26 309.88)
-		(uuid "0c89dde0-03ac-4249-bff9-3aa13af13c36")
-	)
-	(no_connect
 		(at 240.03 44.45)
 		(uuid "0e5a560e-c2c4-49b0-9f7a-23708dcb6e96")
 	)
 	(no_connect
 		(at 256.54 309.88)
 		(uuid "1482e870-acc6-4f6c-bf8d-e1cb703bdb1a")
+	)
+	(no_connect
+		(at 302.26 223.52)
+		(uuid "1cdde359-b635-4e8d-b5c3-d1ff53aa8c25")
 	)
 	(no_connect
 		(at 570.23 353.06)
@@ -12741,7 +12741,7 @@
 		(uuid "0604a25c-f5a1-4e5f-8204-09a821e3250b")
 	)
 	(label "I2C3_SCL"
-		(at 367.03 260.35 180)
+		(at 367.03 257.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12761,7 +12761,7 @@
 		(uuid "0a831258-76c9-4c6f-9470-c08d88ed6a15")
 	)
 	(label "I2C3_SCL"
-		(at 302.26 223.52 0)
+		(at 302.26 309.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13171,7 +13171,7 @@
 		(uuid "56bc9efc-ed80-4581-a020-ff37e4f78342")
 	)
 	(label "I2C4_SDA"
-		(at 372.11 342.9 180)
+		(at 372.11 345.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13611,7 +13611,7 @@
 		(uuid "a33fd07a-f4fd-4f15-805b-6bd427624e40")
 	)
 	(label "I2C3_SDA"
-		(at 367.03 257.81 180)
+		(at 367.03 260.35 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14111,7 +14111,7 @@
 		(uuid "fa401e64-6b2b-414c-a2b0-ea903e18ec54")
 	)
 	(label "I2C4_SCL"
-		(at 372.11 345.44 180)
+		(at 372.11 342.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23560,7 +23560,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "77e9b82e-2c7e-4951-bdd0-db3f3f722dff")
 		(property "Reference" "R7"
 			(at 381.508 337.566 0)
@@ -28424,7 +28424,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "abb1a561-1570-417b-9f22-fa2be0bcc114")
 		(property "Reference" "R9"
 			(at 387.858 337.566 0)
