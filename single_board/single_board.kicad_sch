@@ -9726,6 +9726,12 @@
 		(uuid "05e5500b-89f1-4051-abb2-fa37813999ca")
 	)
 	(junction
+		(at 388.62 191.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0772ea71-4f6d-46f7-ab4a-d22997970343")
+	)
+	(junction
 		(at 311.15 195.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10487,6 +10493,16 @@
 	)
 	(wire
 		(pts
+			(xy 388.62 191.77) (xy 391.16 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "187b4505-4cc7-466d-bae9-074228550055")
+	)
+	(wire
+		(pts
 			(xy 153.67 368.3) (xy 156.21 368.3)
 		)
 		(stroke
@@ -10584,6 +10600,16 @@
 			(type default)
 		)
 		(uuid "2266b572-fa44-4978-88ac-5f1e54574063")
+	)
+	(wire
+		(pts
+			(xy 372.11 191.77) (xy 388.62 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22b66f18-f5b6-416a-8ba0-6b2de211afc4")
 	)
 	(wire
 		(pts
@@ -10737,16 +10763,6 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 196.85) (xy 391.16 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38064eee-ba23-4553-bb18-fbc75549f956")
-	)
-	(wire
-		(pts
 			(xy 64.77 340.36) (xy 67.31 340.36)
 		)
 		(stroke
@@ -10877,16 +10893,6 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 194.31) (xy 391.16 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47af3f7e-df00-45a7-ae74-05393ffc4bb5")
-	)
-	(wire
-		(pts
 			(xy 388.62 298.45) (xy 392.43 298.45)
 		)
 		(stroke
@@ -10934,16 +10940,6 @@
 			(type default)
 		)
 		(uuid "4c828002-95dd-48cc-8fc2-93a5dea17267")
-	)
-	(wire
-		(pts
-			(xy 388.62 191.77) (xy 391.16 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e1979a2-641b-47f0-ab8a-c4ef50682d40")
 	)
 	(wire
 		(pts
@@ -11737,6 +11733,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 196.85) (xy 391.16 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "982c7e60-6df4-4355-a610-77ff6168651d")
+	)
+	(wire
+		(pts
 			(xy 67.31 34.29) (xy 76.2 34.29)
 		)
 		(stroke
@@ -11967,6 +11973,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 194.31) (xy 391.16 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad0a67fe-7f44-4c21-84be-4d131e9fe65f")
+	)
+	(wire
+		(pts
 			(xy 274.32 176.53) (xy 278.13 176.53)
 		)
 		(stroke
@@ -12164,6 +12180,16 @@
 			(type default)
 		)
 		(uuid "bbece01f-4f4a-4533-adc2-22ec853e3acb")
+	)
+	(wire
+		(pts
+			(xy 372.11 199.39) (xy 388.62 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc92b71d-614c-4436-921d-2c55672dd16e")
 	)
 	(wire
 		(pts
@@ -33745,6 +33771,94 @@
 			(project "single_board"
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 367.03 194.31 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f8f96bc8-bf6a-4d79-8b58-631013045f61")
+		(property "Reference" "J54"
+			(at 364.49 194.3099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 364.49 196.8499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "rover:2.54 SMD"
+			(at 367.03 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 367.03 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 367.03 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a76a317c-c974-4ed2-ac9f-7a60f02069d6")
+		)
+		(pin "3"
+			(uuid "081f4183-3750-41b7-8831-c59a82293b47")
+		)
+		(pin "4"
+			(uuid "d823d181-eb99-47ba-b53f-fcd78b286e28")
+		)
+		(pin "2"
+			(uuid "b2a013e9-7a96-47c7-b25d-a7506c9815cc")
+		)
+		(instances
+			(project "single_board"
+				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
+					(reference "J54")
 					(unit 1)
 				)
 			)
