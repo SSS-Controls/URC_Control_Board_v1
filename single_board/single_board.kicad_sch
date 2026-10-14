@@ -14309,7 +14309,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C602037"
+		(property "Datasheet" ""
 			(at 254 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14320,7 +14320,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 254 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C602037"
+			(at 254 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 254 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 254 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14342,6 +14375,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C5")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14469,7 +14505,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 88.9 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -14480,7 +14516,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 88.9 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 88.9 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -14508,6 +14577,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J14")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14557,7 +14629,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C133065"
+		(property "Datasheet" ""
 			(at 394.97 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -14568,7 +14640,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JSt GH 6"
+			(at 394.97 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C133065"
+			(at 394.97 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 394.97 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 394.97 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -14605,6 +14710,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J17")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14655,7 +14763,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 26.67 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -14666,7 +14774,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 26.67 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 26.67 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 26.67 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 26.67 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -14694,6 +14835,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J11")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14744,7 +14888,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 300.99 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -14755,7 +14899,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 300.99 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 300.99 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 300.99 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 300.99 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -14777,6 +14954,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R13")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14827,7 +15007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C26083"
+		(property "Datasheet" ""
 			(at 123.19 326.39 0)
 			(hide yes)
 			(show_name no)
@@ -14838,7 +15018,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 123.19 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C26083"
+			(at 123.19 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 123.19 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 123.19 326.39 0)
 			(hide yes)
 			(show_name no)
@@ -14860,6 +15073,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R26")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14910,7 +15126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 224.79 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -14921,7 +15137,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 224.79 292.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 224.79 292.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 224.79 292.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 224.79 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -14943,6 +15192,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R23")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -14993,7 +15245,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 153.67 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -15004,7 +15256,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 153.67 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 153.67 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 153.67 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 153.67 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -15026,6 +15311,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R34")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15150,7 +15438,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C23186"
+		(property "Datasheet" ""
 			(at 194.31 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -15161,8 +15449,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
 			(at 194.31 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105872"
+			(at 194.31 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 194.31 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 194.31 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15183,6 +15504,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R5")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15311,7 +15635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 293.37 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -15322,7 +15646,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 293.37 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 293.37 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 293.37 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 293.37 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -15344,6 +15701,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C7")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15405,7 +15765,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 323.85 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -15427,6 +15787,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 323.85 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 323.85 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 323.85 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c8864ffa-d037-4b58-8177-a61d9cded5cd")
 		)
@@ -15438,6 +15831,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D10")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15449,7 +15845,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15466,7 +15862,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST_GH_H"
+		(property "Value" "JST_GH"
 			(at 547.37 61.8745 0)
 			(hide yes)
 			(show_name no)
@@ -15489,7 +15885,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C189893"
+		(property "Datasheet" ""
 			(at 544.83 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -15500,7 +15896,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST GH 2"
+			(at 544.83 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C189893"
+			(at 544.83 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 544.83 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 544.83 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -15525,6 +15954,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J5")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -15571,7 +16004,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C23186"
+		(property "Datasheet" ""
 			(at 372.11 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -15582,7 +16015,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 372.11 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105872"
+			(at 372.11 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 372.11 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 372.11 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -15604,6 +16070,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R20")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15733,7 +16202,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C15195"
+		(property "Datasheet" ""
 			(at 300.99 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -15744,7 +16213,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "50V X7R"
+			(at 300.99 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15195"
+			(at 300.99 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 300.99 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 300.99 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -15766,6 +16268,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C25")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15815,7 +16320,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C602037"
+		(property "Datasheet" ""
 			(at 49.53 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -15826,7 +16331,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 49.53 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C602037"
+			(at 49.53 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 49.53 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 49.53 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -15848,6 +16386,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15897,7 +16438,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 278.13 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15908,7 +16449,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 278.13 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 278.13 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 278.13 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 278.13 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15930,6 +16504,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C20")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -15979,7 +16556,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 264.16 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15990,7 +16567,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 264.16 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 264.16 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 264.16 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 264.16 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -16012,6 +16622,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C19")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -16062,7 +16675,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 234.95 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -16073,7 +16686,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 234.95 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 234.95 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 234.95 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 234.95 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -16095,6 +16741,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C27")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -16222,7 +16871,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 63.5 313.69 0)
 			(hide yes)
 			(show_name no)
@@ -16233,8 +16882,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
 			(at 63.5 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 63.5 313.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 63.5 313.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 63.5 313.69 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16255,6 +16937,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R24")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -16632,7 +17317,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -16654,6 +17339,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 278.13 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 278.13 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 278.13 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b11bacf-ed66-42ee-820a-8847d9b17165")
 		)
@@ -16665,6 +17383,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D6")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -16950,7 +17671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C602037"
+		(property "Datasheet" ""
 			(at 58.42 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -16961,7 +17682,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 58.42 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C602037"
+			(at 58.42 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 58.42 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 58.42 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -16983,6 +17737,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17111,7 +17868,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C602037"
+		(property "Datasheet" ""
 			(at 302.26 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17122,7 +17879,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 302.26 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C602037"
+			(at 302.26 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 302.26 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 302.26 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17144,6 +17934,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C8")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17272,7 +18065,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 200.66 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -17283,8 +18076,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
 			(at 200.66 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 200.66 342.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 200.66 342.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 200.66 342.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17305,6 +18131,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R38")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17353,7 +18182,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 158.75 368.3 0)
 			(hide yes)
 			(show_name no)
@@ -17364,8 +18193,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
 			(at 158.75 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 158.75 368.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 158.75 368.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 158.75 368.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17386,6 +18248,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R33")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17475,7 +18340,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -17492,7 +18357,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST_GH_H"
+		(property "Value" "JST_GH"
 			(at 40.64 340.7155 0)
 			(hide yes)
 			(show_name no)
@@ -17515,7 +18380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C189893"
+		(property "Datasheet" ""
 			(at 43.18 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -17526,7 +18391,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST GH 2"
+			(at 43.18 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C189893"
+			(at 43.18 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 43.18 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 43.18 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -17551,6 +18449,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J28")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -17600,7 +18502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C602037"
+		(property "Datasheet" ""
 			(at 67.31 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17611,7 +18513,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 67.31 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C602037"
+			(at 67.31 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 67.31 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 67.31 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17633,6 +18568,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C3")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17762,7 +18700,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 312.42 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17773,7 +18711,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 312.42 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 312.42 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 312.42 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 312.42 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17795,6 +18766,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R14")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17845,7 +18819,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 26.67 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -17856,7 +18830,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 26.67 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 26.67 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 26.67 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 26.67 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -17884,6 +18891,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J8")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -17934,7 +18944,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 323.85 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17945,7 +18955,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 323.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 323.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 323.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 323.85 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17967,6 +19010,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R15")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -18024,8 +19070,41 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "yiyuan"
 			(at 195.58 304.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C221897"
+			(at 195.58 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 195.58 304.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 195.58 304.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18046,6 +19125,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "SW2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -18096,7 +19178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C15195"
+		(property "Datasheet" ""
 			(at 523.24 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -18107,7 +19189,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "50V X7R"
+			(at 523.24 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15195"
+			(at 523.24 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 523.24 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 523.24 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -18129,6 +19244,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C14")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -18494,7 +19612,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 53.34 316.23 0)
 			(hide yes)
 			(show_name no)
@@ -18505,7 +19623,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 53.34 316.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 53.34 316.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 53.34 316.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 53.34 316.23 0)
 			(hide yes)
 			(show_name no)
@@ -18527,6 +19678,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R25")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -18538,7 +19692,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -18555,7 +19709,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST_GH_H"
+		(property "Value" "JST_GH"
 			(at 41.91 364.8455 0)
 			(hide yes)
 			(show_name no)
@@ -18578,7 +19732,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C189893"
+		(property "Datasheet" ""
 			(at 44.45 361.95 0)
 			(hide yes)
 			(show_name no)
@@ -18589,7 +19743,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST GH 2"
+			(at 44.45 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C189893"
+			(at 44.45 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 44.45 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 44.45 361.95 0)
 			(hide yes)
 			(show_name no)
@@ -18614,6 +19801,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J31")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -18753,7 +19944,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 266.7 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -18775,6 +19966,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 266.7 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 266.7 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 266.7 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0e47d37d-5ec4-4d39-8b0b-f0b4d1c7d666")
 		)
@@ -18786,6 +20010,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D5")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -18874,7 +20101,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -18935,6 +20162,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 113.03 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 113.03 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 113.03 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "07991357-2994-435a-aa60-3a321a5a0d6d")
 		)
@@ -18943,6 +20203,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "TP1")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -19152,7 +20416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 26.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -19163,7 +20427,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 26.67 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 26.67 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 26.67 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 26.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -19191,6 +20488,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J6")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -19316,7 +20616,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
+		(property "Datasheet" ""
 			(at 280.67 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -19328,6 +20628,39 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
+			(at 280.67 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C51118"
+			(at 280.67 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 280.67 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 280.67 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -19358,6 +20691,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "U1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -19494,7 +20830,7 @@
 				)
 			)
 		)
-		(property "Description" "C179641"
+		(property "Description" "16MHz"
 			(at 327.66 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -19527,6 +20863,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C179641"
+			(at 327.66 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "731c5cb8-a0e0-47d9-b575-39ef0a94fb61")
 		)
@@ -19544,6 +20891,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "Y1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -19634,7 +20984,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -19651,7 +21001,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST_GH_H"
+		(property "Value" "JST_GH"
 			(at 40.64 314.0455 0)
 			(hide yes)
 			(show_name no)
@@ -19674,7 +21024,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C189893"
+		(property "Datasheet" ""
 			(at 43.18 311.15 0)
 			(hide yes)
 			(show_name no)
@@ -19685,7 +21035,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST GH 2"
+			(at 43.18 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C189893"
+			(at 43.18 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 43.18 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 43.18 311.15 0)
 			(hide yes)
 			(show_name no)
@@ -19710,6 +21093,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J26")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -19816,7 +21203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM6DSV"
+		(property "Value" "LSM6DSVTR"
 			(at 504.19 234.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19837,7 +21224,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C5267399"
+		(property "Datasheet" ""
 			(at 504.19 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -19849,6 +21236,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 504.19 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C5267399"
+			(at 504.19 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 504.19 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 504.19 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -19906,6 +21326,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "U4")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -19963,8 +21386,41 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "yiyuan"
 			(at 231.14 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C221897"
+			(at 231.14 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 231.14 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 231.14 213.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19985,6 +21441,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "SW1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -20034,7 +21493,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C602037"
+		(property "Datasheet" ""
 			(at 76.2 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -20045,7 +21504,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 76.2 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C602037"
+			(at 76.2 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 76.2 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 76.2 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -20067,6 +21559,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C4")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -20275,7 +21770,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 472.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -20286,7 +21781,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 472.44 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 472.44 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 472.44 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 472.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -20308,6 +21836,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C9")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -20516,7 +22047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 88.9 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -20527,7 +22058,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 88.9 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 88.9 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -20555,6 +22119,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J10")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -20601,7 +22168,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C23186"
+		(property "Datasheet" ""
 			(at 194.31 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -20612,8 +22179,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
 			(at 194.31 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105872"
+			(at 194.31 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 194.31 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 194.31 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20634,6 +22234,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R4")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -20998,7 +22601,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 236.22 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -21009,7 +22612,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 236.22 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 236.22 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 236.22 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 236.22 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -21031,6 +22667,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C31")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -21197,7 +22836,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -21258,6 +22897,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 121.92 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 121.92 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 121.92 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0acfdc42-834f-4e7b-86a0-1c95eab5a8f4")
 		)
@@ -21266,6 +22938,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "TP2")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -21473,7 +23149,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 63.5 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -21484,8 +23160,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
 			(at 63.5 364.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 63.5 364.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 63.5 364.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 63.5 364.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21506,6 +23215,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R31")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -21647,7 +23359,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 289.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -21669,6 +23381,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 289.56 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 289.56 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 289.56 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "38ef81f3-ff20-4091-9aeb-c241c733f0e7")
 		)
@@ -21680,6 +23425,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D7")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -21729,7 +23477,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 52.07 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -21740,7 +23488,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 52.07 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 52.07 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 52.07 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 52.07 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -21762,6 +23543,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R30")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -21823,7 +23607,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 340.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -21845,6 +23629,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 340.36 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 340.36 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 340.36 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d506d4e2-1e96-4cf2-8488-1fe086b1f7a9")
 		)
@@ -21856,6 +23673,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D11")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -21904,7 +23724,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 40.64 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -21915,7 +23735,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
+			(at 40.64 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 40.64 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 40.64 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 40.64 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -21937,6 +23790,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R3")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22066,7 +23922,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 359.41 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -22077,7 +23933,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 359.41 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 359.41 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 359.41 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 359.41 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -22099,6 +23988,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R17")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22149,7 +24041,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 422.91 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -22160,7 +24052,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 422.91 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 422.91 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 422.91 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 422.91 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -22182,6 +24107,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R18")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22230,7 +24158,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 62.23 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -22241,8 +24169,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
 			(at 62.23 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 62.23 340.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 62.23 340.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 62.23 340.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22263,6 +24224,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R29")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22311,7 +24275,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 231.14 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -22322,7 +24286,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 231.14 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 231.14 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 231.14 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 231.14 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -22344,6 +24341,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R19")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22551,7 +24551,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 228.6 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -22562,7 +24562,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 228.6 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 228.6 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 228.6 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 228.6 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -22584,6 +24617,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C15")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22633,7 +24669,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 491.49 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -22644,7 +24680,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 491.49 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 491.49 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 491.49 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 491.49 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -22666,6 +24735,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C11")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -22676,7 +24748,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -22692,7 +24764,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST_GH_H"
+		(property "Value" "JST_GH"
 			(at 113.03 318.4145 0)
 			(hide yes)
 			(show_name no)
@@ -22715,7 +24787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C189893"
+		(property "Datasheet" ""
 			(at 115.57 321.31 0)
 			(hide yes)
 			(show_name no)
@@ -22726,7 +24798,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST GH 2"
+			(at 115.57 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C189893"
+			(at 115.57 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 115.57 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 115.57 321.31 0)
 			(hide yes)
 			(show_name no)
@@ -22751,6 +24856,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J27")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -22761,7 +24870,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -22822,6 +24931,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 373.38 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 373.38 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 373.38 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "8c19527c-2bc2-44af-a85d-b0ca3654706e")
 		)
@@ -22842,6 +24984,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J2")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -22892,7 +25038,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 26.67 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -22903,7 +25049,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 26.67 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 26.67 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 26.67 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 26.67 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -22931,6 +25110,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J15")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -23216,7 +25398,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C133065"
+		(property "Datasheet" ""
 			(at 400.05 307.34 0)
 			(hide yes)
 			(show_name no)
@@ -23227,7 +25409,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JSt GH 6"
+			(at 400.05 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C133065"
+			(at 400.05 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 400.05 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 400.05 307.34 0)
 			(hide yes)
 			(show_name no)
@@ -23264,6 +25479,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J25")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -23313,7 +25531,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 245.11 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -23324,7 +25542,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 245.11 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 245.11 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 245.11 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 245.11 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -23346,6 +25597,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C28")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -23792,7 +26046,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 524.51 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -23803,7 +26057,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 524.51 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 524.51 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 524.51 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 524.51 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -23825,6 +26112,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C30")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -23875,7 +26165,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 224.79 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -23886,7 +26176,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 224.79 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 224.79 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 224.79 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 224.79 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -23908,6 +26231,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R22")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24035,7 +26361,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C23186"
+		(property "Datasheet" ""
 			(at 378.46 336.55 0)
 			(hide yes)
 			(show_name no)
@@ -24046,7 +26372,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 378.46 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105872"
+			(at 378.46 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 378.46 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 378.46 336.55 0)
 			(hide yes)
 			(show_name no)
@@ -24068,6 +26427,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R27")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24129,7 +26491,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 359.41 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -24151,6 +26513,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 359.41 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 359.41 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 359.41 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "759553a8-189b-4684-8bcd-b512265c4c88")
 		)
@@ -24162,6 +26557,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D12")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24447,7 +26845,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C15195"
+		(property "Datasheet" ""
 			(at 336.55 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -24458,7 +26856,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "50V C0G"
+			(at 336.55 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C76946"
+			(at 336.55 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 336.55 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 336.55 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -24480,6 +26911,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C34")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24529,7 +26963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 255.27 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -24540,7 +26974,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 255.27 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 255.27 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 255.27 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 255.27 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -24562,6 +27029,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C18")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24771,7 +27241,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 482.6 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -24782,7 +27252,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 482.6 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 482.6 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 482.6 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 482.6 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -24804,6 +27307,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C10")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24853,7 +27359,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 237.49 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -24864,7 +27370,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 237.49 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 237.49 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 237.49 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 237.49 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -24886,6 +27425,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C16")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -24936,7 +27478,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 513.08 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -24947,7 +27489,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 513.08 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 513.08 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 513.08 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 513.08 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -24969,6 +27544,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C29")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -25186,7 +27764,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "1.27 Vertical"
+			(at 501.65 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 501.65 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 501.65 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 501.65 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -25217,6 +27828,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J23")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -25346,7 +27960,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+		(property "Datasheet" ""
 			(at 142.24 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -25359,6 +27973,39 @@
 			)
 		)
 		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 147.32 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C347475"
+			(at 147.32 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 147.32 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 147.32 368.3 0)
 			(hide yes)
 			(show_name no)
@@ -25383,6 +28030,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "Q2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -25603,7 +28253,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 312.42 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -25625,6 +28275,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 312.42 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 312.42 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 312.42 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6740bd2d-3ca4-4079-b869-e84acd107047")
 		)
@@ -25636,6 +28319,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D9")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26013,7 +28699,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 300.99 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26035,6 +28721,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 300.99 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 300.99 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 300.99 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85b729c6-3d08-484f-8022-1434eb73e67c")
 		)
@@ -26046,6 +28765,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D8")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26106,7 +28828,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 90.17 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -26128,6 +28850,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 90.17 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 90.17 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 90.17 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af8433fb-8db7-4428-b326-71a7b5576d10")
 		)
@@ -26139,6 +28894,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26347,7 +29105,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 394.97 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -26358,7 +29116,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 394.97 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 394.97 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 394.97 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 394.97 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -26386,6 +29177,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J20")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26397,7 +29191,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -26414,7 +29208,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST_GH_H"
+		(property "Value" "JST_GH"
 			(at 113.03 361.0355 0)
 			(hide yes)
 			(show_name no)
@@ -26437,7 +29231,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C189893"
+		(property "Datasheet" ""
 			(at 115.57 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -26448,7 +29242,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST GH 2"
+			(at 115.57 358.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C189893"
+			(at 115.57 358.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 115.57 358.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 115.57 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -26473,6 +29300,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J30")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -26522,7 +29353,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 318.77 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26533,7 +29364,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 318.77 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 318.77 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 318.77 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 318.77 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26555,6 +29419,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C24")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26604,7 +29471,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 394.97 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -26615,7 +29482,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 394.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 394.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 394.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 394.97 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -26643,6 +29543,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J13")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26693,7 +29596,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 266.7 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -26704,7 +29607,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 266.7 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 266.7 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 266.7 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 266.7 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -26726,6 +29662,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R10")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26775,7 +29714,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 298.45 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26786,7 +29725,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 298.45 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 298.45 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 298.45 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 298.45 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26808,6 +29780,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C22")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -26937,7 +29912,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 88.9 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -26948,7 +29923,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 88.9 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 88.9 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -26976,6 +29984,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J7")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -27185,7 +30196,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 340.36 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27196,7 +30207,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 340.36 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 340.36 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 340.36 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 340.36 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27218,6 +30262,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R16")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -27360,8 +30407,41 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole with connection"
+		(property "Description" "M3"
 			(at 567.69 363.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 567.69 363.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 567.69 363.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 567.69 363.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27379,6 +30459,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "H3")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -27428,7 +30511,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 88.9 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -27439,7 +30522,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 88.9 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 88.9 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -27467,6 +30583,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J19")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -27556,7 +30675,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -27573,7 +30692,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32G474VBTx"
+		(property "Value" "STM32G474VBT6"
 			(at 284.0833 337.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27596,7 +30715,7 @@
 				(justify right)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g474vb.pdf"
+		(property "Datasheet" ""
 			(at 279.4 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -27608,6 +30727,39 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 128KB flash, 128KB RAM, 170 MHz, 1.71-3.6V, 86 GPIO, LQFP100"
+			(at 279.4 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C730130"
+			(at 279.4 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 279.4 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 279.4 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -27923,6 +31075,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "U5")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -27980,8 +31136,41 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "yiyuan"
 			(at 195.58 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C221897"
+			(at 195.58 336.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 195.58 336.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 195.58 336.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28002,6 +31191,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "SW3")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -28052,7 +31244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 278.13 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -28063,7 +31255,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 278.13 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 278.13 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 278.13 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 278.13 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -28085,6 +31310,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R11")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -28134,7 +31362,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C15195"
+		(property "Datasheet" ""
 			(at 135.89 326.39 0)
 			(hide yes)
 			(show_name no)
@@ -28145,7 +31373,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "50V X7R"
+			(at 135.89 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15195"
+			(at 135.89 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 135.89 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 135.89 326.39 0)
 			(hide yes)
 			(show_name no)
@@ -28167,6 +31428,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C32")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -28452,7 +31716,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C165948"
+		(property "Datasheet" ""
 			(at 179.07 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -28463,7 +31727,40 @@
 				)
 			)
 		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+		(property "Description" "HRO C-31-M-12"
+			(at 175.26 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C165948"
+			(at 175.26 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 175.26 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 175.26 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -28530,6 +31827,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J4")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -28659,7 +31959,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 246.38 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -28670,7 +31970,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 246.38 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 246.38 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 246.38 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 246.38 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -28692,6 +32025,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C17")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -28898,7 +32234,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 53.34 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -28909,7 +32245,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 53.34 367.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 53.34 367.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 53.34 367.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 53.34 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -28931,6 +32300,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R32")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -29136,7 +32508,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C23186"
+		(property "Datasheet" ""
 			(at 384.81 336.55 0)
 			(hide yes)
 			(show_name no)
@@ -29147,7 +32519,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 384.81 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105872"
+			(at 384.81 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 384.81 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 384.81 336.55 0)
 			(hide yes)
 			(show_name no)
@@ -29169,6 +32574,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R28")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -29218,7 +32626,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -29229,7 +32637,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -29251,6 +32692,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -29460,7 +32904,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+		(property "Datasheet" ""
 			(at 215.9 62.865 0)
 			(hide yes)
 			(show_name no)
@@ -29473,6 +32917,39 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 214.63 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7519"
+			(at 214.63 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 214.63 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 214.63 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -29506,6 +32983,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "U2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30030,7 +33510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 394.97 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -30041,7 +33521,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 394.97 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 394.97 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 394.97 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 394.97 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -30069,6 +33582,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J16")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30279,7 +33795,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 26.67 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -30290,7 +33806,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 26.67 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 26.67 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 26.67 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 26.67 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -30318,6 +33867,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J21")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30378,7 +33930,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "Ice Blue"
 			(at 100.33 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -30400,6 +33952,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5160697"
+			(at 100.33 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 100.33 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 100.33 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "71d18ee5-0764-4e82-92a4-a9d0d4dd6cee")
 		)
@@ -30411,6 +33996,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30459,7 +34047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C416565"
+		(property "Datasheet" ""
 			(at 514.35 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -30470,7 +34058,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW 60.4"
+			(at 514.35 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C416565"
+			(at 514.35 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 514.35 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 514.35 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -30492,6 +34113,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R7")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30541,7 +34165,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 90.17 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -30552,7 +34176,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 90.17 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 90.17 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 90.17 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 90.17 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -30574,6 +34231,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30858,7 +34518,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C23186"
+		(property "Datasheet" ""
 			(at 378.46 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -30869,7 +34529,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 378.46 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C105872"
+			(at 378.46 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 378.46 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 378.46 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -30891,6 +34584,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R21")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -30940,7 +34636,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 88.9 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -30951,7 +34647,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 88.9 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 88.9 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -30979,6 +34708,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J9")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31108,7 +34840,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 389.89 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -31119,7 +34851,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 389.89 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 389.89 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 389.89 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 389.89 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -31141,6 +34906,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R6")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31190,7 +34958,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 88.9 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -31201,7 +34969,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 88.9 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 88.9 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -31229,6 +35030,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J22")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31278,7 +35082,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C15195"
+		(property "Datasheet" ""
 			(at 317.5 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -31289,7 +35093,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "50V C0G"
+			(at 317.5 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C76946"
+			(at 317.5 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 317.5 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 317.5 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -31311,6 +35148,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C33")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31438,7 +35278,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 311.15 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -31449,7 +35289,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 311.15 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 311.15 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 311.15 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 311.15 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -31471,6 +35344,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C26")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31519,7 +35395,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 308.61 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -31530,7 +35406,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 308.61 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 308.61 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 308.61 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 308.61 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -31552,6 +35461,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C23")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31601,7 +35513,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 262.89 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -31612,7 +35524,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 262.89 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 262.89 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 262.89 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 262.89 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -31634,6 +35579,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C6")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -31802,7 +35750,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -31818,7 +35766,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "TJA1042"
 			(at 477.52 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31861,6 +35809,39 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C53670"
+			(at 477.52 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 477.52 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 477.52 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "de392996-f6e9-4c2b-9290-444410ed2705")
 		)
@@ -31890,6 +35871,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "U3")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -31938,7 +35923,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 473.71 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -31949,7 +35934,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 473.71 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 473.71 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 473.71 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 473.71 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -31971,6 +35989,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R9")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -32269,8 +36290,41 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole with connection"
+		(property "Description" "M3"
 			(at 567.69 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 567.69 368.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 567.69 368.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 567.69 368.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32288,6 +36342,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "H4")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -32376,7 +36433,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -32425,7 +36482,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "2.54 Vertical"
+			(at 217.17 284.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 217.17 284.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 217.17 284.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 217.17 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -32450,6 +36540,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J24")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -32738,7 +36832,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 289.56 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -32749,7 +36843,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 289.56 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 289.56 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 289.56 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 289.56 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -32771,6 +36898,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R12")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -32819,7 +36949,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 401.32 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -32830,7 +36960,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 401.32 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 401.32 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 401.32 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 401.32 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -32858,6 +37021,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J29")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -32918,8 +37084,41 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "2.54"
 			(at 237.49 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 237.49 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 237.49 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 237.49 49.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32946,6 +37145,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J3")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -33084,7 +37286,40 @@
 				)
 			)
 		)
-		(property "Description" "RGB LED, cathode/blue/red/green"
+		(property "Description" "Common Cathode"
+			(at 414.02 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C601684"
+			(at 414.02 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 414.02 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 414.02 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -33112,6 +37347,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D4")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -33239,7 +37477,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 195.58 346.71 0)
 			(hide yes)
 			(show_name no)
@@ -33250,7 +37488,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 195.58 346.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 195.58 346.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 195.58 346.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 195.58 346.71 0)
 			(hide yes)
 			(show_name no)
@@ -33272,6 +37543,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R37")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -33321,7 +37595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 207.01 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -33332,7 +37606,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 207.01 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 207.01 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 207.01 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 207.01 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -33354,6 +37661,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C13")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -33894,8 +38204,41 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole with connection"
+		(property "Description" "M3"
 			(at 567.69 353.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 567.69 353.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 567.69 353.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 567.69 353.06 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33913,6 +38256,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "H1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -34043,7 +38389,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 24.13 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -34054,7 +38400,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 24.13 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 24.13 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 24.13 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 24.13 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -34082,6 +38461,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -34130,7 +38512,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C413063"
+		(property "Datasheet" ""
 			(at 200.66 311.15 0)
 			(hide yes)
 			(show_name no)
@@ -34141,8 +38523,41 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW"
 			(at 200.66 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C413063"
+			(at 200.66 311.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 200.66 311.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 200.66 311.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34163,6 +38578,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R36")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -34461,8 +38879,41 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole with connection"
+		(property "Description" "M3"
 			(at 567.69 358.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 567.69 358.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 567.69 358.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 567.69 358.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34480,6 +38931,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "H2")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -34687,7 +39141,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C100072"
+		(property "Datasheet" ""
 			(at 288.29 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -34698,7 +39152,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 288.29 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C100072"
+			(at 288.29 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 288.29 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 288.29 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -34720,6 +39207,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C21")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -34731,7 +39221,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -34747,7 +39237,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "2.54"
 			(at 363.22 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34780,7 +39270,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "2.54 Horizontal"
+			(at 365.76 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 365.76 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 365.76 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 365.76 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -34808,6 +39331,10 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J12")
 					(unit 1)
+					(variant
+						(name "JLC")
+						(in_bom yes)
+					)
 				)
 			)
 		)
@@ -34856,7 +39383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C71617"
+		(property "Datasheet" ""
 			(at 195.58 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -34867,7 +39394,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 63mW"
+			(at 195.58 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C71617"
+			(at 195.58 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 195.58 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 195.58 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -34889,6 +39449,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R35")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -35017,7 +39580,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C504989"
+		(property "Datasheet" ""
 			(at 26.67 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -35028,7 +39591,40 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Picoblade 4V"
+			(at 26.67 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C504989"
+			(at 26.67 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 26.67 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 26.67 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -35056,6 +39652,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "J18")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -35183,7 +39782,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C416565"
+		(property "Datasheet" ""
 			(at 514.35 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -35194,7 +39793,40 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "1% 100mW 60.4"
+			(at 514.35 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C416565"
+			(at 514.35 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 514.35 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 514.35 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -35216,6 +39848,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "R8")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -35264,7 +39899,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "C347476"
+		(property "Datasheet" ""
 			(at 393.7 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -35278,6 +39913,39 @@
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
 			(at 389.89 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C347476"
+			(at 389.89 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 389.89 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 389.89 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35301,6 +39969,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "Q1")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -35349,7 +40020,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C236208"
+		(property "Datasheet" ""
 			(at 40.64 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -35360,8 +40031,41 @@
 				)
 			)
 		)
-		(property "Description" "Zener diode, small symbol"
+		(property "Description" "Zener Clamp"
 			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C236208"
+			(at 40.64 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 40.64 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 40.64 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35382,6 +40086,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "D3")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
@@ -35431,7 +40138,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C52923"
+		(property "Datasheet" ""
 			(at 501.65 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -35442,7 +40149,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "25V"
+			(at 501.65 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52923"
+			(at 501.65 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 501.65 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 501.65 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -35464,6 +40204,9 @@
 				(path "/ae10586e-ebf8-402d-a979-c2f011cdeee2"
 					(reference "C12")
 					(unit 1)
+					(variant
+						(name "JLC")
+					)
 				)
 			)
 		)
