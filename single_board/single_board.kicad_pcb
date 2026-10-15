@@ -49638,6 +49638,22 @@
 		(uuid "4a1707b3-ca6b-4d9f-8747-623a1b309c36")
 	)
 	(segment
+		(start 109.818336 53.30333)
+		(end 109.818336 52.18333)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "Net-(D4-K)")
+		(uuid "5d1f7585-b7cf-41dd-981e-9fdd92f8dd9f")
+	)
+	(segment
+		(start 109.818336 52.18333)
+		(end 109.563336 51.92833)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "Net-(D4-K)")
+		(uuid "a2e58a91-518c-4f9b-b391-7a307e4423cd")
+	)
+	(segment
 		(start 117.443336 92.10333)
 		(end 121.543336 92.10333)
 		(width 0.1524)
