@@ -698,6 +698,12 @@
           "label": "KLC_S4.1",
           "name": "KLC_S4.1",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
