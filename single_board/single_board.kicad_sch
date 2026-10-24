@@ -8560,6 +8560,16 @@
 		)
 		(uuid "811ad09c-e053-4eb7-8f20-4f367dcb65ea")
 	)
+	(text "SWO pin"
+		(exclude_from_sim no)
+		(at 311.658 253.238 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "81fcfc6c-33cb-4ec4-8408-9fb66036e836")
+	)
 	(text "Encoders"
 		(exclude_from_sim no)
 		(at 30.48 117.348 0)

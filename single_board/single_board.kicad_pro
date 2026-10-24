@@ -587,7 +587,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../../Desktop/gerber/",
+      "plot": "../../../../Desktop/single-board-gerber/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
