@@ -8277,7 +8277,7 @@
 		)
 		(uuid "0369222f-d40d-490b-ae3a-f85d70ad7882")
 	)
-	(text "Mode 0\nSPI 4-wire"
+	(text "SPI 4-wire"
 		(exclude_from_sim no)
 		(at 487.68 207.264 0)
 		(effects
@@ -20457,7 +20457,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM6DSVTR"
+		(property "Value" "LSM6DSRXTR"
 			(at 504.19 234.95 0)
 			(show_name no)
 			(do_not_autoplace no)
